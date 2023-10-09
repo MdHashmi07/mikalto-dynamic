@@ -1,0 +1,561 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Nav section */
+
+.nav-sub-title {
+    font-size: 0.6rem;
+}
+
+.nav-items {
+    color: #0a215c;
+}
+
+.nav-items:hover {
+    color: orange;
+    text-decoration: underline 2px #0a215c;
+}
+
+.dropdown:focus {
+    outline: none;
+    width: 1rem;
+}
+
+/* Hero Section */
+
+.hero-section {
+    background-repeat: no-repeat;
+    background-size: cover !important;
+    min-height: 50rem;
+    width: 95%;
+}
+
+.hero-left-button {
+    cursor: pointer;
+}
+
+.hero-left-button:hover {
+    background-color: white;
+    color: black !important;
+}
+
+/* welcome section */
+
+.welcome-left-side,
+.welcome-left-sign {
+    width: 100%;
+}
+
+
+/*  form section  */
+
+.form-input {
+    border-bottom: 2px solid black;
+}
+
+.form-button {
+    width: 100%;
+}
+
+.floatLabel {
+    width: 12px;
+}
+
+/* Rooms section */
+
+.room-container,
+.room-detail {
+    width: 100%;
+}
+
+.room-left-heading {
+    color: #c0989e;
+}
+
+.rooms-right>img {
+    width: 100%;
+    height: 100%;
+}
+
+.room-text {
+    color: #c5c9d2;
+}
+
+.rooms-right {
+    position: relative;
+}
+
+.arrowButton {
+    cursor: pointer;
+    position: absolute;
+    top: 45%;
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+.arrowButton:hover {
+    background-color: rgba(255, 255, 255, 0.677);
+    transform: scale(1.1);
+}
+
+.slider-right-button {
+    right: 2%;
+}
+
+.slider-left-button {
+    left: 2%;
+}
+
+.slider-box {
+    display: none;
+}
+
+/* Activities Section */
+
+.activite-section {
+    width: 100%;
+}
+
+.activities-heading {
+    color: #c0989e;
+}
+
+.activities-list-items {
+    color: #c0989e;
+}
+
+.activities-text-color {
+    color: #c6c9d3;
+}
+
+.activite-img {
+    width: 100%;
+    height: 40vh;
+}
+
+/* Experience Section */
+
+.experience-button {
+    border: 1px solid #0a215c;
+    background-color: white;
+}
+
+.experience-card-img {
+    width: 100%;
+    height: 40vh;
+}
+
+/* hello section */
+
+.hello-section {
+    background-repeat: no-repeat;
+    background-size: cover !important;
+}
+
+.hello-card {
+    background-color: white;
+}
+
+/* review section  */
+
+.review-section {
+    background-color: #fffaf6;
+}
+
+.review {
+    color: #04aa6c;
+}
+
+/* Map section */
+
+.map,
+.map-right {
+    width: 100%;
+}
+
+/* wellness section */
+
+.wellness-section {
+    background-color: #fffaf6;
+}
+
+.wellness-left-sub {
+    height: 50%;
+}
+
+/* subscribe section */
+
+.inbox-input:focus {
+    outline: none;
+}
+
+.input-box {
+    width: 100%;
+}
+
+/* footer section */
+
+hr {
+    width: 80%;
+}
+
+/* Common Section */
+
+h1,
+h2,
+.nav-title {
+    font-family: 'Playfair', serif;
+}
+
+.common-color {
+    color: #0a215c;
+}
+
+.text-color {
+    color: #7d8291;
+}
+
+.text-size {
+    font-size: 0.7rem;
+}
+
+.common-background {
+    background-color: #0a215c;
+}
+
+.list-items:hover {
+    color: white;
+    text-decoration: underline 2px white !important;
+}
+
+.text:hover {
+    color: orange !important;
+}
+
+.button:hover {
+    background-color: #093cbc;
+}
+
+.icons:hover {
+    transform: scale(1.5);
+}
+
+.visit-all-button:hover {
+    background-color: #0a215c;
+    color: white;
+}
+
+.card-button:hover {
+    background-color: #ffffff;
+    color: #0a215c !important;
+}
+
+
+@media screen and (min-width: 768px) {
+    .welcome-left-side {
+        width: 100%;
+    }
+
+    .welcome-left-sign {
+        width: 30%;
+    }
+
+    .welcome-right-images {
+        width: 30%;
+    }
+
+    .room-container {
+        height: 50%;
+    }
+
+    .room-detail {
+        width: 90%;
+    }
+
+    .rooms-left {
+        width: 40%;
+    }
+
+    .rooms-right {
+        width: 60%;
+    }
+
+    .activies-content {
+        width: 50%;
+        height: 65vh;
+
+    }
+
+    .activite-img {
+        width: 50%;
+        height: 65vh;
+    }
+
+    .expeirence-heading {
+        width: 100%;
+    }
+
+    .experience-cards {
+        width: 40%;
+    }
+
+    .experience-card-img {
+        width: 100%;
+        height: 40vh;
+    }
+
+    .hello-card {
+        width: 40%;
+    }
+
+    .review-cards {
+        width: 70%;
+    }
+
+    .map-right {
+        width: 100%;
+    }
+
+    .map {
+        width: 100%;
+    }
+
+    .wellness-left {
+        width: 100%;
+    }
+
+    .wellness-right-sub {
+        width: 60%;
+    }
+
+    .wellness-left-sub {
+        width: 100%;
+    }
+
+    .input-box {
+        max-width: 60%;
+    }
+
+    .inbox-input {
+        width: 20rem;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .welcome-left-side {
+        width: 100%;
+    }
+
+    .welcome-left-sign {
+        width: 30%;
+    }
+
+    .welcome-right-side {
+        position: relative;
+    }
+
+    .welcome-img-1 {
+        position: relative;
+        left: 20%;
+        z-index: -1;
+        height: 80%;
+    }
+
+    .welcome-img-2 {
+        position: absolute;
+        left: 30%;
+        top: 16.5rem;
+        z-index: 2;
+    }
+
+    .welcome-img-3 {
+        position: absolute;
+        z-index: 1;
+        top: 6rem;
+        left: 50%;
+    }
+
+    .welcome-right-images {
+        width: 40%;
+    }
+
+    .room-container {
+        height: 70vh;
+    }
+
+    .room-detail {
+        width: 80%;
+    }
+
+    .rooms-left {
+        width: 35%;
+    }
+
+    .rooms-right {
+        width: 65%;
+    }
+
+    .activies-content {
+        width: 50vw;
+        height: 70vh;
+    }
+
+    .activite-img {
+        width: 50%;
+        height: 70vh;
+    }
+
+    .hello-section {
+        height: 50vh;
+    }
+
+    .hello-card {
+        width: 40%;
+    }
+
+    .review-cards {
+        width: 30%;
+    }
+
+    .map-right {
+        width: 50%;
+    }
+
+    .map {
+        width: 100%;
+    }
+
+    .inbox-input {
+        width: 20rem;
+    }
+
+}
+
+@media screen and (min-width:1440px) {
+    .hero-heading {
+        font-size: 3.5rem;
+    }
+
+    .welcome-left-side {
+        width: 30%;
+    }
+
+    .welcome-left-sign {
+        width: 50%;
+    }
+
+    .welcome-right-images {
+        width: 40%;
+    }
+
+    .welcome-right-side {
+        position: relative;
+        width: 70%;
+    }
+
+    .welcome-img-1 {
+        position: relative;
+        left: 15rem;
+        z-index: -1;
+        height: 80%;
+    }
+
+    .welcome-img-2 {
+        position: absolute;
+        left: 22rem;
+        top: 15.9rem;
+        z-index: 2;
+    }
+
+    .welcome-img-3 {
+        position: absolute;
+        z-index: 1;
+        top: 5rem;
+        left: 30rem;
+    }
+
+    .room-detail {
+        width: 70%;
+    }
+
+    .room-container {
+        height: 67vh;
+    }
+
+    .rooms-left {
+        width: 45%;
+    }
+
+    .rooms-right {
+        width: 65%;
+    }
+
+    .expeirence-heading {
+        width: 100%;
+    }
+
+    .experience-cards {
+        width: 20%;
+    }
+
+    .experience-card-img {
+        width: 100%;
+    }
+
+    .expeirence-heading {
+        width: 53%;
+    }
+
+    .hello-section {
+        height: 50%;
+    }
+
+    .hello-card {
+        width: 25%;
+        margin-right: 20rem !important;
+    }
+
+    .review-cards {
+        width: 20%;
+    }
+
+    .map-right {
+        width: 50%;
+    }
+
+    .map {
+        width: 90%;
+    }
+
+    .wellness-left {
+        width: 60%;
+    }
+
+    .wellness-right-sub {
+        width: 70%;
+    }
+
+    .wellness-left-sub {
+        width: 100%;
+    }
+
+    .input-box {
+        max-width: 30%;
+    }
+
+    .inbox-input {
+        width: 20rem;
+    }
+
+    .activies-content {
+        width: 50%;
+        height: 60vh;
+    }
+
+    .activite-img {
+        width: 50%;
+        height: 60vh;
+    }
+}

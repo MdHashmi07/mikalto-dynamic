@@ -1,0 +1,93 @@
+[
+    {
+        "id": "1687815571774",
+        "checkInDate": "2023-06-28",
+        "checkOutDate": "2023-06-29",
+        "noOfAdults": "4",
+        "noOfchildren": "2"
+    },
+    {
+        "id": "1687815710435",
+        "checkInDate": "2023-07-05",
+        "checkOutDate": "2023-06-28",
+        "noOfAdults": "3",
+        "noOfchildren": "3"
+    },
+    {
+        "id": "1687821646218",
+        "checkInDate": "2023-06-28",
+        "checkOutDate": "2023-06-29",
+        "noOfAdults": "3",
+        "noOfchildren": "3"
+    },
+    {
+        "id": "1687821677114",
+        "checkInDate": "2023-07-01",
+        "checkOutDate": "2023-07-02",
+        "noOfAdults": "1",
+        "noOfchildren": "5"
+    },
+    {
+        "id": "1687828827020",
+        "checkInDate": "2023-07-07",
+        "checkOutDate": "2023-07-05",
+        "noOfAdults": "4",
+        "noOfchildren": "2"
+    },
+    {
+        "id": "1687908993562",
+        "checkInDate": "2023-07-07",
+        "checkOutDate": "2023-07-08",
+        "noOfAdults": "3",
+        "noOfchildren": "1"
+    },
+    {
+        "id": "1687911558886",
+        "checkInDate": "2023-07-07",
+        "checkOutDate": "2023-07-07",
+        "noOfAdults": "4",
+        "noOfchildren": "1"
+    },
+    {
+        "id": "1687883888149",
+        "checkInDate": "2023-07-09",
+        "checkOutDate": "2023-06-29",
+        "noOfAdults": "4",
+        "noOfchildren": "5"
+    },
+    {
+        "id": "1687883920644",
+        "checkInDate": "2023-07-07",
+        "checkOutDate": "2023-07-09",
+        "noOfAdults": "6",
+        "noOfchildren": "4"
+    },
+    {
+        "id": "1687886121317",
+        "checkInDate": "2023-06-29",
+        "checkOutDate": "2023-06-29",
+        "noOfAdults": "3",
+        "noOfchildren": "5"
+    },
+    {
+        "id": "1687886628993",
+        "checkInDate": "",
+        "checkOutDate": "",
+        "noOfAdults": "blank",
+        "noOfchildren": "blank"
+    },
+    {
+        "id": "1687972892630",
+        "checkInDate": "2023-07-07",
+        "checkOutDate": "2023-07-08",
+        "noOfAdults": "3",
+        "noOfchildren": "4"
+    },
+    {
+        "id": "1687973383020",
+        "checkInDate": "2023-07-01",
+        "checkOutDate": "2023-07-07",
+        "noOfAdults": "3",
+        "noOfchildren": "3"
+    }
+]

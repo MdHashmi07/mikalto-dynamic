@@ -1,0 +1,98 @@
+{
+    "heroSection": {
+        "heroLeftSection": {
+            "heading": " Enjoy your dream vacation",
+            "subHeading": "Quiet and endlessly beautiful hideaway",
+            "heroImage": "/mikalto-backend/images/room-section/standard-bedroom.jpg",
+            "heroBackground": "/mikalto-backend/images/hero-section/hotel.jpg"
+        }
+    },
+    "welcomeSection": {
+        "welcomeRightSection": {
+            "urls": [
+                "/mikalto-backend/images/welcome-section/hotel-interrior.jpg",
+                "/mikalto-backend/images/welcome-section/hotel-service.jpg",
+                "/mikalto-backend/images/welcome-section/swiming-pool.jpg"
+            ]
+        }
+    },
+    "roomSection": {
+        "roomRightSection": {
+            "urls": [
+                "/mikalto-backend/images/room-section/standard-bedroom.jpg",
+                "/mikalto-backend/images/room-section/delux-bedroom.jpg",
+                "/mikalto-backend/images/room-section/premium-bedroom.jpg"
+            ]
+        },
+        "roomLeftsection": {
+            "standardRoom": {
+                "price": "$150",
+                "bed": "Queen Size Bed",
+                "capacity": "2 adults, 1 children",
+                "roomSize": "55 sqm",
+                "view": "garden view"
+            },
+            "deluxRoom": {
+                "price": "$550",
+                "bed": "Queen Size Bed",
+                "capacity": "2 adults, 1 children",
+                "roomSize": "80 sqm",
+                "view": "Top view"
+            },
+            "premiumRoom": {
+                "price": "$1000",
+                "bed": "Queen Size Bed",
+                "capacity": "4 adults, 2 children",
+                "roomSize": "150 sqm",
+                "view": "beach view"
+            }
+        }
+    },
+    "activiteSection": [
+        "/mikalto-backend/images/activities-section/swimming-pool.jpg",
+        "/mikalto-backend/images/activities-section/house-image.jpg"
+    ],
+    "experienceSection": {
+        "experienceCards": {
+            "image1": "/mikalto-backend/images/experience-section/massage-image.jpg",
+            "image2": "/mikalto-backend/images/experience-section/hotel-view.jpg",
+            "image3": "/mikalto-backend/images/experience-section/oil.jpg",
+            "image4": "/mikalto-backend/images/experience-section/group-image.jpg"
+        }
+    },
+    "helloSection": {
+        "BackgroundImage": "/mikalto-backend/images/hello-section/pool.jpg"
+    },
+    "reviewSection": {
+        "reviewCardDetails": {
+            "firstCard": {
+                "profileImage": "/mikalto-backend/images/review-section/clay.png",
+                "userName": "Selena Mayer",
+                "date": "2021-01-10",
+                "reviewHeading": "Wondeerful new year trip",
+                "reviewData": "One of the best hotels I've ever stayed in. The staff are very friendly and helpful, they were helpful it made me feel bad. Itincludes use of the Spa, wonderful, it has a..."
+            },
+            "secondCard": {
+                "profileImage": "/mikalto-backend/images/review-section/person-1.jpg",
+                "userName": "Esther Howard",
+                "date": "2021-01-10",
+                "reviewHeading": "Recommended",
+                "reviewData": " Great resort, professional staffs. It turns out that you're searching for paradise and you have it hear, nearby. Thanks for the warmth, you are fantastic."
+            },
+            "thirdCard": {
+                "profileImage": "/mikalto-backend/images/review-section/person-2.jpg",
+                "userName": "Jane Cooper",
+                "date": "2021-01-10",
+                "reviewHeading": "All good",
+                "reviewData": "I love the Resort and its environment. Mikalto is incredibly dedicated, knowledgeable, and helpful. The finished product was beautiful every penny..."
+            }
+        }
+    },
+    "wellnessSection": {
+        "wellnessRightSection": {
+            "image1": "/mikalto-backend/images/wellness-section/bridge.jpg",
+            "image2": "/mikalto-backend/images/wellness-section/board.jpg",
+            "image3": "/mikalto-backend/images/wellness-section/mountain.jpg"
+        }
+    }
+}
